@@ -1,0 +1,12 @@
+/Users/Jorge/Projects/rotatearray/rotatearray/bin/Debug/netcoreapp3.1/rotatearray.deps.json
+/Users/Jorge/Projects/rotatearray/rotatearray/bin/Debug/netcoreapp3.1/rotatearray.runtimeconfig.json
+/Users/Jorge/Projects/rotatearray/rotatearray/bin/Debug/netcoreapp3.1/rotatearray.runtimeconfig.dev.json
+/Users/Jorge/Projects/rotatearray/rotatearray/bin/Debug/netcoreapp3.1/rotatearray.dll
+/Users/Jorge/Projects/rotatearray/rotatearray/bin/Debug/netcoreapp3.1/rotatearray.pdb
+/Users/Jorge/Projects/rotatearray/rotatearray/obj/Debug/netcoreapp3.1/rotatearray.csprojAssemblyReference.cache
+/Users/Jorge/Projects/rotatearray/rotatearray/obj/Debug/netcoreapp3.1/rotatearray.AssemblyInfoInputs.cache
+/Users/Jorge/Projects/rotatearray/rotatearray/obj/Debug/netcoreapp3.1/rotatearray.AssemblyInfo.cs
+/Users/Jorge/Projects/rotatearray/rotatearray/obj/Debug/netcoreapp3.1/rotatearray.csproj.CoreCompileInputs.cache
+/Users/Jorge/Projects/rotatearray/rotatearray/obj/Debug/netcoreapp3.1/rotatearray.dll
+/Users/Jorge/Projects/rotatearray/rotatearray/obj/Debug/netcoreapp3.1/rotatearray.pdb
+/Users/Jorge/Projects/rotatearray/rotatearray/obj/Debug/netcoreapp3.1/rotatearray.genruntimeconfig.cache
